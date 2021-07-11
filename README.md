@@ -27,15 +27,19 @@ Parameters:
 ```
 
 * To search dotfiles execute:
+
 ```./dotspm --search {$NAME}```
 
 * To list all available dotfiles execute:
+
 ```./dotspm --list```
 
 * To install dotfiles execute:
+
 ```./dotspm --install {$NAME}```
 
 * To remove dotfiles execute:
+
 ```./dotspm --remove {$NAME}```
 
 
