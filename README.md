@@ -13,4 +13,11 @@ Execute:
 * To see valid parameters execute:
 ```./dotspm --help```
 and will be returned:
-``````
+```dotspm: A package-manager like for Dotfiles
+Usage:
+	dotspm [ parameter ] [ name ]
+Parameters:
+	[ --help ]  [ --install ]
+	[ --remove ]  [ --search ]
+	[ --list ]  [ --just-get ]
+```
