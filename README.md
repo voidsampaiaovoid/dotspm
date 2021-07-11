@@ -23,5 +23,19 @@ Usage:
 Parameters:
 	[ --help ]  [ --install ]
 	[ --remove ]  [ --search ]
-	[ --list ]  [ --just-get ]
+	[ --list ]
 ```
+
+* To search dotfiles execute:
+```./dotspm --search {$NAME}```
+
+* To list all available dotfiles execute:
+```./dotspm --list```
+
+* To install dotfiles execute:
+```./dotspm --install {$NAME}```
+
+* To remove dotfiles execute:
+```./dotspm --remove {$NAME}```
+
+That's it for now, it's a very simple program, if you want to contribute to the project do forks and commits.  
