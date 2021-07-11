@@ -17,7 +17,7 @@ Execute:
 and will be returned:
 
 ```
-dotspm: A package-manager like for Dotfiles
+dotspm: A package-manager like to Dotfiles
 Usage:
 	dotspm [ parameter ] [ name ]
 Parameters:
