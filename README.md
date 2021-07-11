@@ -11,8 +11,11 @@ Execute:
 # Usage
 
 * To see valid parameters execute:
+
 ```./dotspm --help```
+
 and will be returned:
+
 ```dotspm: A package-manager like for Dotfiles
 Usage:
 	dotspm [ parameter ] [ name ]
