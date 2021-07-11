@@ -35,7 +35,7 @@ void Args::helpArgv(){
 	std::cout << "Parameters:" << std::endl;
 	std::cout << "	[ --help ]  [ --install ]" << std::endl;
 	std::cout << "	[ --remove ]  [ --search ]" << std::endl;
-	std::cout << "	[ --unofficial ]  [ --just-get ]" << std::endl;
+	std::cout << "	[ --list ]  [ --just-get ]" << std::endl;
 }
 
 void Args::installArgv(int aargc, char* aargv[]){
