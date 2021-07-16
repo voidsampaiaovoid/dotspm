@@ -47,12 +47,11 @@ Parameters:
 
 * Contributing
 
-If you want to add more dotfiles to repository:
-
-* edit file repo.xml, the basic structure should be like:
+* If you want to add more dotfiles to repository edit file repo.xml, the basic structure should be like:
 ```
 <repo>
 	<package name="${NAME_OF_DOTFILES}" repo="${LINK_FOR_YOUR_DOTFILES('FROM GITHUB OR GITLAB')} dir="${NAME_OF_DIR_AFTER_GIT-CLONE}" command="${NAME_OF_SCRIPT_OF_INSTALLATION_OF_YOUR_DOTFILES}" remove="${NAME_OF_SCRIPT_OF_REMOVAL_OF_YOUR_DOTFILES}" comment="${A_COMMENT_ABOUT_YOUR_DOTFILES}" version="${VERSION_OF_YOUR_DOTFILES}"/>
+	<package name="..." repo="..." dir="..." command="..." remove="..." comment="..." version="..."/>
 </repo>
 ```
 
