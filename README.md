@@ -45,7 +45,7 @@ Parameters:
 
 ```./dotspm --remove ${NAME}```
 
-* Contributing
+# Contributing
 
 * If you want to add more dotfiles to repository edit file repo.xml, the basic structure should be like:
 ```
