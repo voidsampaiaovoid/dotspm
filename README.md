@@ -31,7 +31,7 @@ Parameters:
 
 * To search dotfiles execute:
 
-```./dotspm --search {$NAME}```
+```./dotspm --search ${NAME}```
 
 * To list all available dotfiles execute:
 
@@ -39,12 +39,9 @@ Parameters:
 
 * To install dotfiles execute:
 
-```./dotspm --install {$NAME}```
+```./dotspm --install ${NAME}```
 
 * To remove dotfiles execute:
 
-```./dotspm --remove {$NAME}```
+```./dotspm --remove ${NAME}```
 
-
-
-ᵀʰᵃᵗ'ˢ ᶦᵗ ᶠᵒʳ ⁿᵒʷ, ᶦᶠ ʸᵒᵘ ʷᵃⁿᵗ ᵗᵒ ᶜᵒⁿᵗʳᶦᵇᵘᵗᵉ ᵗᵒ ᵗʰᵉ ᵖʳᵒʲᵉᶜᵗ ᵈᵒ ᶠᵒʳᵏˢ ᵃⁿᵈ ᶜᵒᵐᵐᶦᵗˢ.
